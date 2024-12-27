@@ -1,5 +1,5 @@
 ﻿
-string filePath = "./Day1_1/input.txt";
+string filePath = "./input.txt";
 List<int> left = [];
 List<int> right = [];
 

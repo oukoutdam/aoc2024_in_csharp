@@ -11,5 +11,10 @@ dotnet sln add <NameOfProject>/<NameOfProject>.csproj
 ```
 3. Run specific project
 ```
-dotnet run --project <NameOfProject>
+# run this if path to input.txt is relative to Program.cs
+cd <NameOfProject>
+dotnet run
+
+# run below if the path of input.txt is set from solution root
+# dotnet run --project <NameOfProject>
 ```
