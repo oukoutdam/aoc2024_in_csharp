@@ -18,3 +18,8 @@ dotnet run
 # run below if the path of input.txt is set from solution root
 # dotnet run --project <NameOfProject>
 ```
+
+## Solved Questions
+- [x] day 1 part 1
+- [x] day 1 part 2
+- [x] day 2 part 1
